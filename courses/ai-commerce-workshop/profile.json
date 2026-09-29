@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "course_id": "ai-commerce-workshop",
+  "name": "AI带货视频实战工作坊",
+  "facts": {
+    "positioning": {
+      "value": "AI与电商业务结合，以内容策略、制作、复盘和团队落地串成工作流程",
+      "source_ref": "当前对话用户纠正",
+      "verified_at": "2026-09-29",
+      "basis": "本对话已核实来源与用户决定；下一期需更新"
+    },
+    "audience": {
+      "value": "已完成0到1、有电商基本盘的电商卖家与老板",
+      "source_ref": "当前对话用户明确受众",
+      "verified_at": "2026-09-29",
+      "basis": "本对话已核实来源与用户决定；下一期需更新"
+    },
+    "not_for": {
+      "value": "没有电商经验的小白或只想找副业的人",
+      "source_ref": "当前对话用户明确受众",
+      "verified_at": "2026-09-29",
+      "basis": "本对话已核实来源与用户决定；下一期需更新"
+    },
+    "start_date": {
+      "value": "2026-10-10",
+      "source_ref": "outline-rev320",
+      "verified_at": "2026-09-29",
+      "basis": "本对话已核实来源与用户决定；下一期需更新"
+    },
+    "end_date": {
+      "value": "2026-10-11",
+      "source_ref": "outline-rev320",
+      "verified_at": "2026-09-29",
+      "basis": "本对话已核实来源与用户决定；下一期需更新"
+    },
+    "timezone": {
+      "value": "Asia/Shanghai",
+      "source_ref": "广州课程所在地",
+      "verified_at": "2026-09-29",
+      "basis": "本对话已核实来源与用户决定；下一期需更新"
+    },
+    "location": {
+      "value": "广州",
+      "source_ref": "outline-rev320",
+      "verified_at": "2026-09-29",
+      "basis": "本对话已核实来源与用户决定；下一期需更新"
+    },
+    "duration": {
+      "value": "两天一晚",
+      "source_ref": "outline-rev320",
+      "verified_at": "2026-09-29",
+      "basis": "本对话已核实来源与用户决定；下一期需更新"
+    },
+    "modules": {
+      "value": [
+        "AI时代下的内容电商产生了什么样的变化",
+        "拆竞对与素材复盘（上、下）",
+        "制定内容策略，确定高转化的内容方向",
+        "AI视频实操",
+        "AI视频的高阶玩法",
+        "如何做出能爆量的AI视频？",
+        "如何用AI做出高点击、高转化画面？",
+        "AI时代的内容组织升级"
+      ],
+      "source_ref": "outline.md（原课纲模块名称；上下合并计数）",
+      "verified_at": "2026-09-29",
+      "basis": "本对话已核实来源与用户决定；下一期需更新"
+    },
+    "mother_templates": {
+      "value": [
+        "痛点",
+        "种草",
+        "场景",
+        "剧情",
+        "证据",
+        "机制"
+      ],
+      "source_ref": "outline-rev320",
+      "verified_at": "2026-09-29",
+      "basis": "本对话已核实来源与用户决定；下一期需更新"
+    },
+    "delivery": {
+      "value": "现场手把手实操，配套工具、模板与使用手册提供给学员",
+      "source_ref": "本对话用户决定及outline-rev320",
+      "verified_at": "2026-09-29",
+      "basis": "本对话已核实来源与用户决定；下一期需更新"
+    },
+    "tool_rights_boundary": {
+      "value": "不据此承诺第三方模型会员、算力额度或永久无限使用",
+      "source_ref": "手册权益信息的证据边界",
+      "verified_at": "2026-09-29",
+      "basis": "本对话已核实来源与用户决定；下一期需更新"
+    }
+  },
+  "style_overrides": {
+    "scope": "本课程",
+    "voice": "自然、具体，正文可长一些，围绕老板实际业务问题",
+    "visual": "暖白底、深绿、浅绿卡片、深色大标题、关系图",
+    "no_qr": true,
+    "no_teacher_name_at_top": true,
+    "no_fixed_ai_commerce_eyebrow": true,
+    "copy_length_guidance": "350—500字为起点，按内容调整",
+    "delivery_preference": "授权后通过lark-cli一条文案一张海报组合成post，不用文档代替",
+    "source_ref": "当前对话用户多轮明确纠正与认可"
+  },
+  "sources": [
+    {
+      "id": "outline-rev320",
+      "url": "https://bvvp9yto7k.feishu.cn/wiki/ASlywwsIaiXEEBkF5YCco5L9nCe",
+      "revision": 320
+    },
+    {
+      "id": "handbook-rev93",
+      "url": "https://bvvp9yto7k.feishu.cn/docx/KBHSdgr8do6170x8QjgcUb6tnOh",
+      "revision": 93,
+      "warning": "手册可能含凭证；先本地保存、脱敏后读取必要正文"
+    }
+  ],
+  "pending": [
+    "以后新一期日期、地点、课纲和权益重新按新简介核实",
+    "没有已验证的本批宣传成交效果数据"
+  ],
+  "bundled_version": "1.1.0",
+  "snapshot_date": "2026-09-30",
+  "default_course": true,
+  "topic_index": "approved-topics.json",
+  "event_valid_through": "2026-10-11",
+  "update_policy": "本课程已授权随技能迭代；新一期更新日期，过期不当成即将开课；其他课程不继承本课程事实。"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "课程朋友圈文案与海报"
+  short_description: "从课程简介生成有业务价值的朋友圈图文，支持工具篇、反馈篇、倒计时和反馈迭代"
+  default_prompt: "使用 $course-moments-campaign，根据这份课程简介制作朋友圈文案和配套海报，沿用已认可的风格。"
