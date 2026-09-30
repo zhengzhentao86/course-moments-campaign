@@ -2,7 +2,7 @@
 
 输入一句任务，基于内置课程生成自然、具体的朋友圈文案与一对一配套海报。支持系列宣传、配套工具、真实学员反馈、开课倒计时，以及授权后的飞书聊天图文交付。
 
-当前版本：1.1.0。仓库为私有，访问与安装需要仓库权限。
+当前版本：1.1.1。公开仓库，可直接克隆安装，无需 GitHub 登录或仓库邀请。
 
 ## 直接使用
 
@@ -19,7 +19,7 @@
 Codex 首次安装（目标目录须不存在）：
 
 ```bash
-gh repo clone zhengzhentao86/course-moments-campaign ~/.codex/skills/course-moments-campaign
+git clone https://github.com/zhengzhentao86/course-moments-campaign.git ~/.codex/skills/course-moments-campaign
 ```
 
 已经通过 Git 克隆安装：

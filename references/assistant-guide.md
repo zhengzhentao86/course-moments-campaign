@@ -8,10 +8,10 @@
 
 ## 从 GitHub 安装或更新
 
-私有仓库：`zhengzhentao86/course-moments-campaign`。助理的 GitHub 账号需要有仓库访问权限；请由仓库所有者邀请具体账号，不能仅凭链接访问。下面命令适用于已登录 gh、目录尚不存在的首次安装：
+公开仓库：`zhengzhentao86/course-moments-campaign`。下载与克隆不需要 GitHub 登录或邀请。下面命令适用于已安装 Git、目标目录尚不存在的首次安装：
 
 ```bash
-gh repo clone zhengzhentao86/course-moments-campaign ~/.codex/skills/course-moments-campaign
+git clone https://github.com/zhengzhentao86/course-moments-campaign.git ~/.codex/skills/course-moments-campaign
 ```
 
 已经由 Git 克隆安装的，用 `git -C ~/.codex/skills/course-moments-campaign pull --ff-only` 更新；有本地修改先检查并保留，不强制覆盖。目录存在但并非 Git 仓库时，让 AI 备份并合并安装，不直接重复克隆。也可从仓库 Release 下载压缩包完整安装。
